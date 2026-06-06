@@ -496,7 +496,7 @@ Passionate about:
 - Full-Stack Development
 - Applied Machine Learning
 
-GitHub: **@yatharthgupta**
+GitHub: **@YatharthGupta1803**
 
 ---
 
